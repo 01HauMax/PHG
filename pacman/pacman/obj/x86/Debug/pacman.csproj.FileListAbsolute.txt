@@ -1,0 +1,9 @@
+C:\Users\01HauMax\AppData\Local\Temporary Projects\pacman\bin\Debug\pacman.exe
+C:\Users\01HauMax\AppData\Local\Temporary Projects\pacman\bin\Debug\pacman.pdb
+C:\Users\01HauMax\AppData\Local\Temporary Projects\pacman\obj\x86\Debug\pacman.exe
+C:\Users\01HauMax\AppData\Local\Temporary Projects\pacman\obj\x86\Debug\pacman.pdb
+H:\Eigene Dokumente\Visual Studio 2010\Projects\pacman\pacman\obj\x86\Debug\pacman.exe
+H:\Eigene Dokumente\Visual Studio 2010\Projects\pacman\pacman\obj\x86\Debug\pacman.pdb
+H:\Eigene Dokumente\Visual Studio 2010\Projects\pacman\pacman\bin\Debug\pacman.exe
+H:\Eigene Dokumente\Visual Studio 2010\Projects\pacman\pacman\bin\Debug\pacman.pdb
+H:\Eigene Dokumente\Visual Studio 2010\Projects\pacman\pacman\obj\x86\Debug\pacman.csprojResolveAssemblyReference.cache

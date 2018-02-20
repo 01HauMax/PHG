@@ -1,0 +1,4 @@
+maxi: 2
+maxi: 15
+maxi: 36
+maxi: 10

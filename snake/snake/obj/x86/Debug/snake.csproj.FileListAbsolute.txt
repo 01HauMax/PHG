@@ -1,0 +1,9 @@
+C:\Users\01HauMax\AppData\Local\Temporary Projects\snake\bin\Debug\snake.exe
+C:\Users\01HauMax\AppData\Local\Temporary Projects\snake\bin\Debug\snake.pdb
+C:\Users\01HauMax\AppData\Local\Temporary Projects\snake\obj\x86\Debug\snake.exe
+C:\Users\01HauMax\AppData\Local\Temporary Projects\snake\obj\x86\Debug\snake.pdb
+h:\eigene dokumente\visual studio 2010\Projects\snake\snake\obj\x86\Debug\snake.exe
+h:\eigene dokumente\visual studio 2010\Projects\snake\snake\obj\x86\Debug\snake.pdb
+h:\eigene dokumente\visual studio 2010\Projects\snake\snake\bin\Debug\snake.exe
+h:\eigene dokumente\visual studio 2010\Projects\snake\snake\bin\Debug\snake.pdb
+H:\Eigene Dokumente\Visual Studio 2010\Projects\snake\snake\obj\x86\Debug\snake.csprojResolveAssemblyReference.cache
