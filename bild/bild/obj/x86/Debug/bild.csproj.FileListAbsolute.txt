@@ -1,0 +1,9 @@
+C:\Users\01HauMax\AppData\Local\Temporary Projects\bild\bin\Debug\bild.exe
+C:\Users\01HauMax\AppData\Local\Temporary Projects\bild\bin\Debug\bild.pdb
+C:\Users\01HauMax\AppData\Local\Temporary Projects\bild\obj\x86\Debug\bild.exe
+C:\Users\01HauMax\AppData\Local\Temporary Projects\bild\obj\x86\Debug\bild.pdb
+H:\Eigene Dokumente\Visual Studio 2010\Projects\bild\bild\obj\x86\Debug\bild.exe
+H:\Eigene Dokumente\Visual Studio 2010\Projects\bild\bild\obj\x86\Debug\bild.pdb
+H:\Eigene Dokumente\Visual Studio 2010\Projects\bild\bild\bin\Debug\bild.exe
+H:\Eigene Dokumente\Visual Studio 2010\Projects\bild\bild\bin\Debug\bild.pdb
+H:\Eigene Dokumente\Visual Studio 2010\Projects\bild\bild\obj\x86\Debug\bild.csprojResolveAssemblyReference.cache
