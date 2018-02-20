@@ -143,7 +143,7 @@ namespace rech
             b = Convert.ToInt32(a);
             a = "";
             c = b * c;
-            a = a + "-";
+            a = a + "x";
             textBox1.Text = textBox1.Text + a;
         }
 
@@ -154,7 +154,7 @@ namespace rech
             b = Convert.ToInt32(a);
             a = "";
             c = c/b;
-            a = a + "-";
+            a = a + "/";
             textBox1.Text = textBox1.Text + a;
         }
 
