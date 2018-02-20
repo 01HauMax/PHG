@@ -1,0 +1,14 @@
+C:\Users\01HauMax\AppData\Local\Temporary Projects\rech\bin\Debug\rech.exe
+C:\Users\01HauMax\AppData\Local\Temporary Projects\rech\bin\Debug\rech.pdb
+C:\Users\01HauMax\AppData\Local\Temporary Projects\rech\obj\x86\Debug\rech.Form1.resources
+C:\Users\01HauMax\AppData\Local\Temporary Projects\rech\obj\x86\Debug\rech.Properties.Resources.resources
+C:\Users\01HauMax\AppData\Local\Temporary Projects\rech\obj\x86\Debug\rech.csproj.GenerateResource.Cache
+C:\Users\01HauMax\AppData\Local\Temporary Projects\rech\obj\x86\Debug\rech.exe
+C:\Users\01HauMax\AppData\Local\Temporary Projects\rech\obj\x86\Debug\rech.pdb
+H:\Eigene Dokumente\Visual Studio 2010\Projects\rech\rech\obj\x86\Debug\rech.exe
+H:\Eigene Dokumente\Visual Studio 2010\Projects\rech\rech\obj\x86\Debug\rech.pdb
+H:\Eigene Dokumente\Visual Studio 2010\Projects\rech\rech\bin\Debug\rech.exe
+H:\Eigene Dokumente\Visual Studio 2010\Projects\rech\rech\bin\Debug\rech.pdb
+H:\Eigene Dokumente\Visual Studio 2010\Projects\rech\rech\obj\x86\Debug\rech.Form1.resources
+H:\Eigene Dokumente\Visual Studio 2010\Projects\rech\rech\obj\x86\Debug\rech.Properties.Resources.resources
+H:\Eigene Dokumente\Visual Studio 2010\Projects\rech\rech\obj\x86\Debug\rech.csproj.GenerateResource.Cache
